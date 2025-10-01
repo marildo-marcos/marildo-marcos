@@ -19,7 +19,9 @@ vscode python c c++ java git mysql sql github docker
 
 🌱 I’m currently learning AI (Machine Learning)
 
-📫 How to reach me: Marildo Marcos [![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/marildo-marcos)
+📫 How to reach me: Marildo Marcos <a href="https://www.linkedin.com/in/marildo-marcos" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+</a>
 
 😄 Pronouns: He/His/Him
 
