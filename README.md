@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi there 👋, Welcome!
+I am Marildo Marcos
 
-<!--
-**marildo-marcos/marildo-marcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello!👋🏻 My name is Marildo Marcos. I am from 42 Luanda taking Software Engineering. 🏫
 
-Here are some ideas to get you started:
+I have a huge interest in AI and Data Science📝 as well coding👩‍💻! Currently studying ⚛️ C++, Machine Learning, Deep Learning and being a succesful AI and Data Scientist.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently 42 Luanda Chess Team President. ♟️
+
+I love to join different community and competition that involve creating something for the society! 🙋
+
+Skills:
+Shell Script | Computer Network | Project Management | Data Analytics
+
+Tools:
+vscode python c c++ java git mysql sql github docker
+
+🔭 I’m currently working on this page.
+🌱 I’m currently learning AI (Machine Learning)
+📫 How to reach me: Marildo Marcos (Linkedin)
+😄 Pronouns: He/His/Him
+⚡ Fun fact: When you call my name as a Marido it means husband in Portuguese language 😂.
+github linkedin instagram twitter website
