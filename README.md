@@ -16,8 +16,13 @@ Tools:
 vscode python c c++ java git mysql sql github docker
 
 🔭 I’m currently working on this page.
+
 🌱 I’m currently learning AI (Machine Learning)
+
 📫 How to reach me: Marildo Marcos (Linkedin)
+
 😄 Pronouns: He/His/Him
+
 ⚡ Fun fact: When you call my name as a Marido it means husband in Portuguese language 😂.
+
 github linkedin instagram twitter website
