@@ -26,5 +26,3 @@ vscode python c c++ java git mysql sql github docker
 😄 Pronouns: He/His/Him
 
 ⚡ Fun fact: When you call my name as a Marido it means husband in Portuguese language 😂.
-
-github linkedin instagram twitter website
